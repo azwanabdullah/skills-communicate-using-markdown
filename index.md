@@ -14,3 +14,7 @@ You can refer at this [docs](https://docs.github.com/en/get-started/writing-on-g
 ### Example
 #### Header
 A header is a larger bit of text at the beginning of a section. There are six sizes, from the largest to the smallest, to indicate the level of heading like in HTML `<h1>` - `<h6>`.
+
+#### Images
+##### Example
+![Image of a cute cat](https://images.pexels.com/photos/225406/pexels-photo-225406.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
