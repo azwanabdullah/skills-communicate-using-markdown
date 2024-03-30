@@ -18,3 +18,20 @@ A header is a larger bit of text at the beginning of a section. There are six si
 #### Images
 ##### Example
 ![Image of a cute cat](https://images.pexels.com/photos/225406/pexels-photo-225406.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+
+#### Quoting code
+##### Inline code
+By using single backtick you can quote inline code like this: `int x = y + z;`
+
+##### Code Blocks
+Use triple backticks to quote code blocks:
+###### Command-line text example
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+###### JavaScript code example
+``` javascript
+var myVar = "Hello, world!";
+```
